@@ -1,1 +1,1 @@
-# JoinsUsingLINQ
+This repository demonstrates various types of SQL-style joins using LINQ in C#. It includes examples of Inner Join, Left Join, Right Join (simulated), Full Outer Join (simulated), and Cross Join to help developers understand and implement different join operations using LINQ.
